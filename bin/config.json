@@ -1,0 +1,9 @@
+{
+  "hostname": "127.0.0.1",
+  "port": 8080,
+  "data_dir":"ParcryptData",
+  "gpu_devices":[
+    {"opencl":0, "mem_usage":"90%"},
+    {"opencl":1, "mem_usage":"90%"}
+  ]
+}
